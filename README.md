@@ -1,1 +1,1 @@
-# fehlzeitquote
+# absenteeism rate calculator
